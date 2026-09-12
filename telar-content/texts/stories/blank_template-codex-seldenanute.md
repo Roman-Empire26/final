@@ -1,0 +1,7 @@
+---
+title: "Codex Selden/Añute"
+---
+
+Material Constraint: It was prepared from animal hide treated with a chalky gesso base and folded accordion-style (screenfold). It lacks bound, turnable pages and cannot rely on alphabetic sentences or linear, left-to-right textual flow. Like the Khipu, since it isn't alphabetic writing, finding the original meaning of said writing is hard, fortuntely with these pictograms, it is easier to decode. 
+
+Material Expansion: The Codex Selden/Añute shows how material boundaries reshape narrative structure. Crafted from strips of animal hide coated in a smooth gesso base and folded into an accordion screenfold, this medium lacks traditional book binding or page-turning mechanics. Like books, instead of isolating information onto individual pages, the screenfold provides a continuous visual plane that can be unfolded and viewed across an expansive physical area. More people can see and read it. Without alphabetic text, the codex relies on fine brushes and natural pigments to encode records and writing. However, rather than limiting meaning, these material conditions expand narrative possibilities, reading is guided by red lines that weave up and down, establishing a serpentine path across the surface. Pictographic elements such as calendar dates, place signs, and figures engaged in political marriages or rituals are organized. This arrangement allows a reader to process complex timelines, ancestral lineages, and territorial claims, turning physical hide and pigment into a dynamic reading system. 

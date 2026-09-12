@@ -1,5 +1,36 @@
-step,object,page,x,y,zoom,clip_start,clip_end,loop,alt_text,question,answer,layer1_button,layer1_content,layer2_button,layer2_content
-#,object_id from the objects tab,for multi-page items,horizontal position 0-1 (0.5 = center),vertical position 0-1 (0.5 = center),(1.0 = full image),"Start time for video/audio clips, e.g. ""1:30"" (m:ss) or ""90"" (seconds)",End time for video/audio clips,yes to loop the clip,"Describe what is visible in this zoomed view for screen readers. If empty, the object's image description is used.",Heading for this step,Brief 1-2 sentence text,"Optional button text (default: ""Learn more"")","Panel content: write text here, paste markdown, or enter path to .md file (e.g. your-story/file.md)","Optional second button text (default: ""Go deeper"")","Second panel: write text here, paste markdown, or enter path to .md file"
-1,telar-placeholder,,,,,,,,,question,answer,,,,
-2,telar-placeholder,,,,,,,,,question,answer,,,,
-3,telar-placeholder,,,,,,,,,question,answer,,,,
+step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
+paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,telar-placeholder,0.5,0.5,1,,Why do processes lead to certain concepts?,"Concepts aren't fix; we map the world to our social convention; is fluid, and Arbitrary. 
+
+",,Learn more,blank_template-learn-more.md,,,,,
+2,socrotes,0.5,0.5,1,,what are tool meant for?,"Written messages were originally communicational substitutes for spoken messages. ",,,,,,,,
+3,img2305,0.48405390219114586,0.48474776701461125,1.2,,What do we call the process in social bodies?,"Society operates as an organic system. ",,,,,,,,
+4,simon-rodriguez-introduccion,0.5121038692820724,0.6616159161353545,1.44,,What gives shapes/produces/ makes intelligible our experience of the world?,"Social education give the signifier a shared signified by musing proper experience and practice the idea collectively ",,,,,,,,
+5,simon-rodriguez-imprenta,0.5,0.5,1,,What sequence of belief change the process?,,,,,,,,,
+6,codex-mendoza-fol,0.5,0.5,1,,Is The Codex Mendoza The Original Concrete Poetry?,"Semasiographic system, otherwise known as the Codex Mendoza, simply means that the art/images are a way of communicating. A form of text. Concrete poetry is a reflection of the Codex Mendoza, as it uses visual cues, structure, spacing, etc., to communicate.",,Learn more,blank_template-step6-layer1.md,,,,,true
+7,codex-mendoza-fol-2,0.5,0.5,1,,The Tools of Izcoatls,,,,,,,,,
+8,florentine-codex-book-5,0.5,0.5,1,,Creation: Material Constraints & Expansion,"How the medium itself has restrictions while simultaneously opening up new forms of expression. ",,,,,,,,
+9,haptic-khipu-khipu,0.5,0.5,1,,Primary Object: Khipus,,,Learn more,blank_template-khipu.md,,,,,
+10,codex-selden-anute,0.5,0.5,1,,Primary Object: Codex Selden/Añute,,,Learn more,blank_template-codex-seldenanute.md,,,,,
+11,guaman-poma-nueva,0.5,0.5,1,,Primary Object: The Nueva Corónica,,,Learn more,blank_template-the-nueva-coronica.md,,,,,
+13,telar-placeholder,0.5,0.5,1,,Can we tie Concrete Poetry to Cultural Techniques?,"Concrete Poetry relates to the material world and in culture there is always the element of the real world and the abstract. ",,Learn more,blank_template-step13-layer1.md,Go deeper,blank_template-go-deeper.md,,,
+14,florentine-codex-book,0.2569405046119621,0.44487983918705726,0.8999999999999999,,Human Brain and poetry,"Poetry comes from the mind, intellect or the brain in itself?
+",,Cultural Techniques and Creation,blank_template-human-brain-and.md,,,,,
+15,florentine-codex-book-3,0.6016577803808948,0.4023107254793506,1.1574074074074074,,"Cultural techniques & Creation: Language como expresión de religiosidad ","Spanish Transcription
+(López Austin & García Quintana 2000)
+
+""lo que ello se trata, más de aquellos que son naturales y acostumbrados a este lenguaje, de manera que seguramente se canta todo lo que él quiere, sea guerra o paz, loor suyo o contumelia de Jesucristo, sin que de los demás se pueda entender.""
+Esta presentación de el lenguaje como medio de transmisión religiosa concuerda con las ""cultural techniques"" que discutimos en esta etapa del trabajo de grupo.
+
+Works Cited and References
+Sahagún, Bernardino de. Historia general de las cosas de Nueva España. Transcribed and edited by Alfredo López Austin and Josefina García Quintana. 3rd ed. Mexico City: Cien de México / Consejo Nacional para la Cultura y las Artes, 2000.  Available at Digital Florentine Codex/Códice Florentino Digital, edited by Kim N. Richter, Alicia Maria Houtrouw, Kevin Terraciano, Jeanette Peterson, Diana Magaloni, and Lisa Sousa, bk. 2, fol. 137v. Los Angeles: Getty Research Institute, 2023.  https://florentinecodex.getty.edu/en/book/2/folio/137v . Accessed 9 September 2026.
+
+","Sahagún, Bernardino de. Historia general de las cosas de Nueva España. Transcribed and edited by Alfredo López Austin and Josefina García Quintana. 3rd ed. Mexico City: Cien de México / Consejo Nacional para la Cultura y las Artes, 2000.  Available at Digital Florentine Codex/Códice Florentino Digital, edited by Kim N. Richter, Alicia Maria Houtrouw, Kevin Terraciano, Jeanette Peterson, Diana Magaloni, and Lisa Sousa, bk. 2, fol. 137v. Los Angeles: Getty Research Institute, 2023.  https://florentinecodex.getty.edu/en/book/2/folio/137v . Accessed 9 September 2026.",Cultural Techniques and Creation,blank_template-book-2-folio.md,,,,,
+16,florentine-codex-book-2,0.5,0.5,1,,How are these tools related to the body?,"Movement, embodied knowledge in writing.","Florentine Codex, Book 2 -fol. 7v",,blank_template-objects-as-tools.md,,,,,
+17,florentine-codex-book-4,0.5,0.5,1,,"Are the use of reed pens, and the ""imprenta"" be considered as tools? in the creation of important messages?","Yes, anything that the body and the mind uses to extend the knowledge. In writing important messages and laws.",https://florentinecodex.getty.edu/book/10/folio/142r,Tools are anything used to convey a message or to make sense of an announcement or law,blank_template-reed-pens-and.md,,,,,
+18,codex-selden-anute-3,0.49912049252418644,0.45079950799507934,1,,How does the visual path change the reading process?,"The reader has to follow the images and directional lines instead of normal written lines, making reading more active and engaging.",,,,,,,,
+19,haptic-khipu-khipu,0.4847803979771323,0.4902624026240259,1.2,,How do cords and knots change what reading requires?,Reading becomes physical and tactile. It relies on touch and structure as well as trained interpretation rather than written words.,,,,,,,,
+20,guaman-poma-nueva,0.5,0.5,1,,How do images and words change how Guaman Poma persuades?,The images support his written argument and give the reader another way to understand the message. It adds another layer to the experience.,,,,,,,,
+21,vanguardia-y-concretismo,0.47340291006722,0.4984238010718608,0.9,,How does visual form change the reading process?,"The placement and shape of the words guide the readers eye. It forms a picture which becomes a part of the poem in itself. It becomes part of the meaning. ",,,,,,,,
+22,florentine-codex-book-7,0.48065083553210175,0.5455104551045517,1,,How does book 12 guide the reader through conquest?,"it combines narrative and images to provide the reader with more than one perspective of conquest. ",,,,,,,,
+23,florentine-codex-book-6,0.565963060686014,0.4630996309963111,1,,How do image and text shape the reading experience?,"The image gives an immediate visual impression. The text adds onto that detail and context allowing the reader to experience both seeing along with reading. ",,,,,,,,
