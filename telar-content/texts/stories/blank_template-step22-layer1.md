@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+The Florentine Codex changes the reading experience by bringing different forms of information onto the same page. In Book 12 the reader moves between written accounts and illustrations of the conquest. The image gives an immediate sense of what is happening while the text adds more detail and explanation. Neither part has to stand alone. The reader can move back and forth between them to build a fuller understanding of the event. The use of Nahuatl and Spanish also adds another layer to the page because the same history is being carried through more than one language. This gives the reader several ways to approach the same event and makes the page feel more open to interpretation. The reader has to move through several forms of information at once. That makes the page feel less like a single text and more like a combination of different ways of telling the same history. It showed that the form of the codex could directly shape how the conquest was read.
