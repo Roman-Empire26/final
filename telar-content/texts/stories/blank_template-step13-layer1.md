@@ -2,4 +2,5 @@
 title: "Learn more"
 ---
 
-Furthermore, the codex is meant to be traversed like an adventure, exactly as the story is being told. The way it is read is the same way the story unfolds; you are immersed in the world of the codex because you are interacting with this world/page. You aren't simply reading words and letting the story tell you; you are trying to connect the dots and make sense of it. This is how the fluidity of the process works within the codex, and the image beautifully shows the process. When you look at the image, your eyes aren't fixed in one place; they're jumping from one place to another. Concrete poetry does the same.
+Sahagún, Bernardino de, Antonio Valeriano, Alonso Vegerano, Martín Jacobita, Pedro de San Buenaventura, Diego de Grado, Bonifacio Maximiliano, Mateo Severino, et al. Historia general de las cosas de Nueva España (Florentine Codex), Ms. Mediceo Palatino 218–20, Biblioteca Medicea Laurenziana, Florence, MiBACT, 1577.  Available at Digital Florentine Codex/Códice Florentino Digital, edited by Kim N. Richter, Alicia Maria Houtrouw, Kevin Terraciano, Jeanette Peterson, Diana Magaloni, and Lisa Sousa, bk. 11, fol. 62r. Los Angeles: Getty Research Institute, 2023.  https://florentinecodex.getty.edu/en/book/11/folio/62r . Accessed 8 September 2026.
+

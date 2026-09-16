@@ -2,4 +2,4 @@
 title: "Learn more"
 ---
 
-Likewise, we become more interested as we gravitate towards the story. We have a connection to the story as we become a character in it. We really become the captain of our own journey into the story. We take control and give our input; we don't simply take. I actually want to see it all the way through because I am actively engaged in the whole process. I feel like I put together the story as I try to make sense of it and piece it together like a puzzle.
+Sometimes people might want their reading to get straight to the point. I think the Codex Mendoza can do that while still being engaging and dynamic. For example, the image that is being displayed. We see a story being told through images while simultaneously using blips of words here and there. Moreover, it is structured from top to bottom and left to right with simple line breaks. This is a perfect mix of everything and the sweet spot I think we should continue using.
