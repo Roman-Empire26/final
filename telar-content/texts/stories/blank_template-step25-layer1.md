@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+Guaman Poma changes the reading experience by combining written text with detailed images. The reader is not meant to focus on one and ignore the other. Both parts work together to shape a message. The images give the reader another way to understand the ideas. The writing adds more explanation and context. This means the reader has to use both to fully understand what Guaman Poma is trying to say. The page becomes something you have to look through rather than simply read from top to bottom. The images can draw attention to certain people or actions before the writing explains them in more detail. This makes the reading process more active and gives the reader more than one way to understand the argument. It showed that the form of the Nueva coronica was part of the message itself.

@@ -1,7 +1,7 @@
 ---
-title: "The Nueva Coronica"
+title: "The Nueva Corónica Material Constraint and Expansion"
 ---
 
-Material Constraint: The physical format of European paper and iron gall ink demands linear cursive writing and structured page margins, which is very tedious work and it is also expensive. 
+Material Constraint: The physical format of European paper and iron gall ink demands linear cursive writing and structured page margins, which is very tedious work and it is also expensive. A single mistake can mean starting over. 
 
-Material Expansion: Guamán Poma uses the flexibility of hand-drawn pen-and-ink illustration to subvert European graphic conventions. On a single paper, he writes alphabetic Spanish text with full-page drawings structured around Andean spatial principles, turning the European book medium into a dual visual tool for critique and cultural survival. It is also a great way to hold information and to spread it, as it can be passed on. 
+Material Expansion: Guamán Poma uses the flexibility of hand-drawn pen and ink illustration to subvert European graphic conventions. On a single paper, he writes alphabetic Spanish text with full-page drawings structured around Andean spatial principles, turning the European book medium into a dual visual tool for critique and cultural survival. It is also a great way to hold information and to spread it, as it can be passed on. "And yet, for the edification of the King of Spain, this Quechua-speaking Indian uses the fundamental tools of the first truly bureaucratic empire—paper, pen, and ink—for which, in material terms, there are absolutely no indigenous Andean equivalents. He set out his account of Andean society, past, present, and future, using a system of communication—alphabetic script plus images—that is also a recent European import, as, of course, is the language of the bulk of the text—Spanish" (Fraser, "The Artistry of Guaman Poma," pg.2). 
