@@ -2,4 +2,4 @@
 title: "Go deeper"
 ---
 
-The Codex Mendoza also shows that communication can change when the audience changes. Indigenous visual systems remained important, but additional explanations were added for Spanish readers. This created a document that worked between different systems at the same time. The tool became flexible enough to carry knowledge from one cultural setting into another while still keeping parts of its original visual structure.
+Rhetorica christiana also shows that memory can be shaped by the way information is presented. The mnemonic images were designed to help people connect ideas with visual forms. That means the tool does not only communicate knowledge in the moment. It can also affect how that knowledge is remembered later. The process becomes more fluid because teaching, seeing, and remembering all work together.

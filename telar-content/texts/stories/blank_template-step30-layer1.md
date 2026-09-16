@@ -2,4 +2,4 @@
 title: "Learn more"
 ---
 
-Moreover, the image shows Aztec life. We see education and marriage on display. A teacher is seen teaching kids. Then we see what seems like a ritual of sorts: a family structure. This is just everyday life that we experience today, but in a different time. It's crazy how much life hasn't changed.
+The image gives the reader an immediate view of the event while the text adds detail and explanation. Reading the page means moving between both forms instead of relying on only one. This makes the experience more layered and shows how the design of the page shows how the conquest is to be understood.
